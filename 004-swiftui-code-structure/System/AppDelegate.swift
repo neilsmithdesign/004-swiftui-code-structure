@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  004-swiftui-code-structure
+//  004-swiftui-view-models
 //
-//  Created by Neil Smith on 11/06/2020.
+//  Created by Neil Smith on 08/06/2020.
 //  Copyright © 2020 Neil Smith Design LTD. All rights reserved.
 //
 
